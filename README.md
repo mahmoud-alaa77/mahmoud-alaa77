@@ -15,4 +15,4 @@
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mahmoud-alaa1612/)
 [![Instagram](https://img.shields.io/badge/-facebook-blue?style=flat&labelColor=blue&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100006095133185)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](https://mail.google.com/mail/u/0/)
+[![Gmail Badge](https://img.shields.io/badge/-gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mahmoud.alaa1612@gmail.com)](mahmoud.alaa1612@gmail.com)
