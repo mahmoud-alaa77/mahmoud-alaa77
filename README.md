@@ -6,13 +6,13 @@
 
 ## 📖 About me
 
-* 💻 I'm a flutter developer
-* 📱  I make apps for Android and iOS
-* 🎓 I'm a Computer Science student 
+* 📱  I leverage Flutter to create user-friendly applications for both Android and iOS.
+* 🎓 I'm a Computer Science student with a passion for building mobile apps.
+* 💻 I'm always on the lookout for new challenges and learning opportunities in the mobile development world!
 
 
 ## 🙋‍♂️ Connect with me:
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mahmoud-alaa1612/)
 [![Instagram](https://img.shields.io/badge/-facebook-blue?style=flat&labelColor=blue&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100006095133185)
-[![Gmail Badge](https://img.shields.io/badge/-gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mahmoud.alaa1612@gmail.com)](mahmoud.alaa1612@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=https://mail.google.com/mail/u/1/)](mahmoud.alaa1612@gmail.com)
